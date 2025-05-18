@@ -33,3 +33,4 @@ PKANTOM provides a comprehensive toolkit that includes the following features:
 
 ## 💰 Pricing  
 The PKANTOM tool is available for purchase at **$12.99 USD**.  
+### If you're interested in PKANTOM or have any questions, please reach out to me on Discord: **scrpdtv**
